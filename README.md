@@ -42,7 +42,7 @@ Steps carried out:
 
 ---
 
-## 💡 Recommendation  
+## Recommendation  
 - Place frequently co-purchased items closer together in stores.  
 - Use high-confidence rules to design **"Customers who bought X also bought Y"** systems.  
 - Bundle strongly associated products for promotions.  
